@@ -7,7 +7,6 @@ I'm an IT student at FPT University majoring in Artificial Intelligence and Data
 * 🎓 I'm currently studying at FPT University, majoring in AI and Data Science with a GPA of 3.2/4.0.
 * 🎯 Goals: To land an Internship as a Data Analyst / Data Scientist and further develop my skills in building scalable ML models and automated ETL pipeline.
 * 🔬 Research: First-authored and submitted a paper titled "Capital Efficiency in the Post-Digital Film Industry" to the EIRTM 2026 conference.
-* 💡 Current Projects: Working on the "F-Survival" mobile app for FPT students, an AI Paralegal system, and restoring old black-and-white war footage using Computer Vision techniques.
 * 💬 Ask me about: Python, SQL, Machine Learning, Data Engineering, or my End-to-End Movie Industry Analysis Pipeline!
 * 📫 How to reach me: duonglh.work@gmail.com
 * ⚡ Fun fact: I have an IELTS Academic score of 7.5, and when I'm not coding, you can find me analyzing Jujutsu Kaisen lore or grinding in Honkai: Star Rail.
