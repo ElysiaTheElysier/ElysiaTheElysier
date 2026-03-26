@@ -1,4 +1,4 @@
-### Hi everyone 👋, I'm Lam Hai Duong, or ElysiaTheElysier
+### Hi everyone 👋, I'm Lam Hai Duong
 
 **Objective:**
 I'm an IT student at FPT University majoring in Artificial Intelligence and Data Science. With a strong foundation in Data Analytics, Machine Learning, and Computer Vision, I am passionate about extracting actionable insights from complex datasets. Currently, I am actively seeking an internship position as a Data Analyst or Data Scientist to contribute to real-world data-driven solutions.
